@@ -2,7 +2,6 @@
 
 # Publication
 Journal: International Journal of Pharmaceutical Sciences
-DOI: https://doi.org/10.5281/zenodo.14282423
 Published: December 5, 2024
 Pages: 543-552, Vol 2, Issue 12
 
